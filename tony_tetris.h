@@ -1,6 +1,6 @@
 ////////***程序内容：俄罗斯方块********/////////////
 /*
-   程序共有三个文件main.c tony_tetris.c tony_tetris.h 
+   程序共有三个文件main.c tony_tetris.c tony_tetris.h
    一个编译文件Makefile
 */
 ///////////////////////////////
